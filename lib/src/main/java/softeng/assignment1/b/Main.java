@@ -5,10 +5,10 @@ import softengassignment1.Module;
 
 public class Main {
 	
-	private static CourseProgramme CSIT, Commerce, Science, Arts;
-    private static Module CT1, CT2, BS3, BS4, SC5, SC6, AT7, AT8;
-    private static Student James, Joseph, Jessica, Julia;
-    private static Lecturer Micheal, Mark, Mary, Megan;
+	static CourseProgramme CSIT, Commerce, Science, Arts;
+    static Module CT1, CT2, BS3, BS4, SC5, SC6, AT7, AT8;
+    static Student James, Joseph, Jessica, Julia;
+    static Lecturer Micheal, Mark, Mary, Megan;
 
 	public static void main(String[] args) {
         // Add New Courses, with Start Date and End Date
